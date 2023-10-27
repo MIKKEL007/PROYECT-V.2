@@ -1,0 +1,7 @@
+{
+  "name": "pp4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
